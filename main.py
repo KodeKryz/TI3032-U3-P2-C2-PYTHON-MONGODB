@@ -101,7 +101,7 @@ def insercion_inicial_coleccion_clientes() -> None:
 
     print(respuesta)
 
-#Pedidos
+#Pedidos 
 
 def insercion_inicial_coleccion_pedidos() -> None:
     respuesta = coleccion_pedidos.insert_many(
